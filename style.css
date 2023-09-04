@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.website{
+    
+   width: 1200px;
+   margin: 0 auto;
+   margin-bottom: 30px;
+
+}
+
+.headerSection{
+    text-align: center;
+    color: #ffff;
+    background-color: #34495e;
+    padding: 0 5px ;
+    margin-top: 20px;
+    padding: 10px 0 10px 0 ;
+  
+    
+}
+
+.heroSection{
+    width: 1200px;
+    height: 800px;
+    background-color: #f38c31;
+    
+
+}
+img{
+   width: 986px;
+height: 667px;
+margin: 63px 112px;
+box-shadow: 19px 19px 16px 9px white;
+}
+
+.title{
+    width: 1200px;
+    height: 180px;
+    color: #fff;
+    margin-top: ;
+    padding: 40px 0 40px 0;
+    background-color: #34495e;
+    text-align: center;
+}
+.designSection{
+    width: 1200px;
+    height: 300px;
+    color: #fff;
+    margin-: ;
+    padding: 40px 10px 40px 10px;
+    background-color: #9b59b6;
+    text-align: center;
+}
+.textS{
+    color: rgb(90, 238, 64);
+}
+.textW{
+    color: #f1d539;
+}
+.textSe{
+    color: #b3cfec;
+}
+
+.footerSection{
+    width: 1200px;
+    height: 180px;
+    color: #fff;
+    margin-top: ;
+    padding: 40px 0 40px 0;
+    background-color: #f38c31;
+    text-align: center;
+}
+.box{
+    color: #000000;
+    font-size: 40px;
+    margin-top: 15px;
+    border: dashed black;
+    box-shadow: 13px 15px 3px 3px white;
+    border-radius: 7px;
+}
+
+.box{
+width: 270px;
+height: 95px;
+background-color: #efe2e2;
+text-align: center;
+display: inline block;
+margin: 0 auto;
+border-style: dotted black;
+}
+
+
+.footrbotoom{
+width: 1200px;
+height: 40px;
+padding: 10px;
+text-align: center;
+color: #ffff;
+background-color: #34495e;
+}
